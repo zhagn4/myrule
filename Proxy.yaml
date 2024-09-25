@@ -1,0 +1,33 @@
+payload:
+  #地平线海外
+  - DOMAIN-SUFFIX,123456.buzz
+
+  # 自行测试当地是否能够直连，不能直连删掉下面这行
+  #- DOMAIN,beesport.livednow.com
+
+  # pixman海外
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,orz-7.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  ##misakaf
+  - DOMAIN-SUFFIX,stream1.misakaf.org
+  - DOMAIN-SUFFIX,stream2.misakaf.org
+  - DOMAIN-SUFFIX,stream3.misakaf.org
+  #pixman
+  #- DOMAIN-SUFFIX,cdn.hinet.net,🎬TWMedia
+  
+  - DOMAIN-SUFFIX,mcwy.xyz
+  
+  #自定义
+  #- DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,pilipiliultra.top
+  - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,m.manhuagui.com
+
+  #awtrix服务器更新
+  - DOMAIN-SUFFIX,blueforcer.de
