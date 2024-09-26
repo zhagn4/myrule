@@ -5,6 +5,8 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+
+# 地平线
 DOMAIN-SUFFIX,dpx1.1110111.top
 DOMAIN-SUFFIX,dpx2.1110111.top
 DOMAIN-SUFFIX,dpx3.1110111.top
@@ -15,6 +17,18 @@ DOMAIN-SUFFIX,dpx9.123456.buzz
 DOMAIN-SUFFIX,dpx10.123456.buzz
 DOMAIN-SUFFIX,0570.dpxemby.xyz
 DOMAIN-SUFFIX,0570.123456.buzz
+
+# my
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+IP-CIDR,183.206.0.0/15,no-resolve
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,dnsany.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
