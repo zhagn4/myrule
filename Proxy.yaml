@@ -21,7 +21,7 @@ payload:
   #pixman
   #- DOMAIN-SUFFIX,cdn.hinet.net,🎬TWMedia
   
-  - DOMAIN-SUFFIX,mcwy.xyz
+  #- DOMAIN-SUFFIX,mcwy.xyz
   
   #自定义
   #- DOMAIN-SUFFIX,jable.tv
