@@ -2,7 +2,7 @@
 
 # pilipili cdn
 DOMAIN-SUFFIX,pilipili.club
-DOMAIN-SUFFIX,streamer.pilipiliultra.com
+#DOMAIN-SUFFIX,streamer.pilipiliultra.com
 
 # 地平线直连：
 DOMAIN-SUFFIX,dpx1.1110111.top
