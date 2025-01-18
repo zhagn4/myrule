@@ -13,3 +13,4 @@ payload:
 
   # pilipili cdn
    - DOMAIN-SUFFIX,pilipili.club
+   - DOMAIN-SUFFIX,streamer.pilipiliultra.com
