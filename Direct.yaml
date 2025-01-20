@@ -12,5 +12,5 @@ payload:
   - DOMAIN-SUFFIX,dnsany.com
 
   # pilipili cdn（2条）
-  - DOMAIN-SUFFIX,pilipili.club
-  - DOMAIN-SUFFIX,streamer.pilipiliultra.com
+  #- DOMAIN-SUFFIX,pilipili.club
+  #- DOMAIN-SUFFIX,streamer.pilipiliultra.com
