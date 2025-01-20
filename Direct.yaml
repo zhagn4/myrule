@@ -1,5 +1,5 @@
 payload:
-# pixman国内
+# pixman国内(10条)
   - DOMAIN-SUFFIX,dnsany.com
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,chinamobile.com
@@ -11,6 +11,6 @@ payload:
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,dnsany.com
 
-  # pilipili cdn
-  # - DOMAIN-SUFFIX,pilipili.club
+  # pilipili cdn（1 条）
+  - DOMAIN-SUFFIX,pilipili.club
    #- DOMAIN-SUFFIX,streamer.pilipiliultra.com
