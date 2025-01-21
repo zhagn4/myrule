@@ -1,4 +1,5 @@
 payload:
+# 共12条
 # pixman国内(10条)
   - DOMAIN-SUFFIX,dnsany.com
   - DOMAIN-SUFFIX,cmvideo.cn
