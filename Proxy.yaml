@@ -33,3 +33,6 @@ payload:
 
   #awtrix服务器更新
   - DOMAIN-SUFFIX,blueforcer.de
+
+  # 探花tv：
+  - DOMAIN-SUFFIX,tanhuatv.site
