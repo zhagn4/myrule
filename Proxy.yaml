@@ -27,7 +27,7 @@ payload:
   
   #自定义
   #- DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-SUFFIX,pilipiliultra.top
+  #- DOMAIN-SUFFIX,pilipiliultra.top
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,m.manhuagui.com
 
@@ -36,3 +36,6 @@ payload:
 
   # 探花tv：
   - DOMAIN-SUFFIX,tanhuatv.site
+
+  #pilipili
+  - DOMAIN-SUFFIX,direct.pilipiliultra.com
