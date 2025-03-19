@@ -1,3 +1,4 @@
 payload:
   #pixman
   - DOMAIN-SUFFIX,cdn.hinet.net
+  - DST-PORT,50007
