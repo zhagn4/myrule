@@ -17,4 +17,6 @@ payload:
   - DOMAIN-KEYWORD,4gtv
   - DOMAIN-KEYWORD,litv
   - DOMAIN-KEYWORD,ofiii
+  - DOMAIN-KEYWORD,hinet
+  - DOMAIN-KEYWORD,akamaized
   #- DST-PORT,50007
