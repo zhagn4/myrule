@@ -20,3 +20,4 @@ payload:
   - DOMAIN-KEYWORD,hinet
   - DOMAIN-KEYWORD,akamaized
   - DST-PORT,50007
+  - IP-CIDR,172.17.0.11/32
