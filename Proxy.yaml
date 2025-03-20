@@ -10,9 +10,9 @@ payload:
   # pixman海外(####台湾摸索)
   - DOMAIN-SUFFIX,livednow.com
   - DOMAIN-SUFFIX,orz-7.com
-  ####- DOMAIN-SUFFIX,4gtv.tv
-  ####- DOMAIN-SUFFIX,hinet.net
-  ####- DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ofiii.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,mytvsuper.com
