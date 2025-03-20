@@ -19,4 +19,4 @@ payload:
   - DOMAIN-KEYWORD,ofiii
   - DOMAIN-KEYWORD,hinet
   - DOMAIN-KEYWORD,akamaized
-  #- DST-PORT,50007
+  - DST-PORT,50007
