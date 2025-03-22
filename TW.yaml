@@ -1,6 +1,7 @@
 payload:
   #pixman（1条）
   - DOMAIN-SUFFIX,cdn.hinet.net
+  - IP-CIDR,85.237.207.219/32
   #iptv研究所提供新增（11条）
   #- DOMAIN-SUFFIX,hinet
   #- DOMAIN-KEYWORD,hamivideo
