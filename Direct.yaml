@@ -1,5 +1,5 @@
 payload:
-# 共21条
+# 共22条
 # pixman国内(10条)
   - DOMAIN-SUFFIX,dnsany.com
   - DOMAIN-SUFFIX,cmvideo.cn
@@ -31,5 +31,8 @@ payload:
   - DOMAIN-SUFFIX,koolmirror.openpop.cn
   - DOMAIN-KEYWORD,linkease
   - DOMAIN-KEYWORD,istoreos
+
+# 秀米公众号（1条）
+  - DOMAIN-SUFFIX,xiumi.us
   
     
