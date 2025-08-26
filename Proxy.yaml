@@ -30,6 +30,9 @@ payload:
   #- DOMAIN-SUFFIX,pilipiliultra.top
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,m.manhuagui.com
+  - DOMAIN-SUFFIX,www.outdoorgearlab.com
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com
+  
 
   #awtrix服务器更新
   - DOMAIN-SUFFIX,blueforcer.de
