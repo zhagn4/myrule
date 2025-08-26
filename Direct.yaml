@@ -34,5 +34,20 @@ payload:
 
 # 秀米公众号（1条）
   - DOMAIN-SUFFIX,xiumi.us
+
+#supercell
+  - DOMAIN-KEYWORD,supercell
+  - DOMAIN-KEYWORD,squadbusters
+  - DOMAIN-SUFFIX,ios.perfsight.qq.com
+  - DOMAIN-SUFFIX,cdn.wetest.qq.com
+  - DOMAIN-SUFFIX,idcconfig.gcloudsdk.com
+  - DOMAIN-SUFFIX,inventory.mtech-dev.supercell.com
+  - DOMAIN-SUFFIX,squadbusters.inbox.supercell.com
+  - DOMAIN-SUFFIX,down.anticheatexpert.com
+  - DOMAIN-SUFFIX,ios.crashsight.qq.com
+  - DOMAIN-SUFFIX,receiver.tdm.qq.com
+  - DOMAIN-SUFFIX,cgi.connect.qq.com
+  - DOMAIN-SUFFIX,pop-release.itop.qq.com
+  - DOMAIN-SUFFIX,hc.tdm.qq.com
   
     
