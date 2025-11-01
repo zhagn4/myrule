@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,sport.pendy.dpdns.org
   - DOMAIN-SUFFIX,docker.livednow.dpdns.org
   - DOMAIN-SUFFIX,diabrowser.engineering
+  - DOMAIN-KEYWORD,iill
