@@ -3,6 +3,9 @@ payload:
   - DOMAIN-SUFFIX,123456.buzz
     #IPTV研究所
   - DOMAIN-SUFFIX,video.mytvsuper.xyz
+  #益力多
+  - DOMAIN-KEYWORD,hoy.tv
+  - DOMAIN-KEYWORD,rthktv
 
   # 自行测试当地是否能够直连，不能直连删掉下面这行
   #- DOMAIN,beesport.livednow.com
