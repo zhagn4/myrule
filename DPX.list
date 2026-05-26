@@ -21,6 +21,12 @@ DOMAIN-SUFFIX,aws3.123456.buzz
 DOMAIN-SUFFIX,cdn.123456.buzz
 # DOMAIN-SUFFIX,xk.123456.buzz
 
+#aptv
+DOMAIN-SUFFIX,sharewithyou.dpdns.org
+
+#pilipili
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+
 # 飞跃彩虹cdn：
 DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,cdn.7777777.buzz
