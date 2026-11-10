@@ -104,6 +104,9 @@ payload:
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,fqnovelpic.com
   - DOMAIN-SUFFIX,bytecdn.cn
+  
+  #黄果
+  - DOMAIN-SUFFIX,adihsppe.cc,DIRECT
 
   
     
